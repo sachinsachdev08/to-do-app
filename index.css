@@ -64,7 +64,8 @@ body{
     border-radius: 15px;
     
 }
-input{
+
+.input1{
     display: block;
     margin-left: 24%;
     border: 1px solid orangered;
@@ -73,7 +74,6 @@ input{
     box-shadow: 10px 10px 10px lightgrey;
 
 }
-
 .modal:target{
     visibility: visible;
     opacity: 1;
