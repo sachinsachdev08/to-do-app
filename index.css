@@ -50,7 +50,7 @@ body{
 
 
 .modal{
-    height: 110vh;
+    height: 170vh;
     width: 100%;
     display: block;
     margin-left: 40%;
@@ -228,7 +228,7 @@ a:hover{
     }
 
     .modal{
-        height: 170vh;
+        height: 210vh;
     }
 
     #top{
